@@ -1,0 +1,25 @@
+
+
+*{background-color: #ffffff;
+    
+}
+.cargando {
+    text-align: center;
+    padding-top: 350px; /* mover  */
+}
+
+.cargando img {
+    background-color: transparent;
+    max-width: 300px; /*tamaño */
+ 
+}
+.cargando h2{
+    font-family: Arial, sans-serif;
+
+
+}
+.cargando{
+    color: rgb(255, 178, 13);
+}
+
+  

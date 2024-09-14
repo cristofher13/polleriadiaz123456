@@ -1,0 +1,46 @@
+h2 {
+    text-align: center;
+}
+
+.logomod {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    border: 1px solid #ffffff;
+}
+
+.logo {
+    max-width: 100%;
+    height: auto;
+}
+
+.form-container {
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f9f9f9;
+}
+
+.form-container form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(255, 141, 48, 0.932);
+    border: 1px solid #ddd;
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+}
+.form-container form textarea {
+    max-width: 100%; 
+    width: 100%; 
+    resize: vertical; 
+    box-sizing: border-box; 
+    min-height: 150px; 
+    max-height: 300px; 
+    padding: 10px; 
+    border: 1px solid #ddd; 
+}
